@@ -174,9 +174,9 @@ p {
 }
 
 /* .navbar__menu__item.active {
-  border: 2px solid var(--color-black);
-  border-radius: var(--size-border-radius);
-} */
+    border: 2px solid var(--color-black);
+    border-radius: var(--size-border-radius);
+  } */
 
 .navbar__menu__item:hover {
   background-color: #ffca28;
